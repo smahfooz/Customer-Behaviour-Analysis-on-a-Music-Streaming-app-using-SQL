@@ -1,6 +1,6 @@
 <h2><b>Executive Summary</b></h2>
 <p>
-  This project showcases a series of SQL queries designed to analyze streaming data. The queries address various business questions related to artist rankings, user behaviors, and streaming patterns. This case study demonstrates the application of SQL to derive valuable insights from a streaming service's dataset.
+  This project showcases a series of SQL queries designed to analyze streaming data which was done as a case study for the interview process. The queries address various business questions related to artist rankings, user behaviors, and streaming patterns. This case study demonstrates the application of SQL to derive valuable insights from a streaming service's dataset.
 </p>
 <h2>SQL Concepts Demonstrated</h2>
 <p>
